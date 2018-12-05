@@ -1,2 +1,2 @@
-# TODO-LIST
+# PLEASE DOWLOAND THE REPOSITORY TO SEE THE PROJECT
 simple TODO LIST with primitive javaScript
